@@ -189,6 +189,25 @@ img {
   text-align: right;
 }
 
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 @media only screen and (min-width: 800px) {
   section {
     padding: 40px;
@@ -200,5 +219,15 @@ img {
 
   img {
     margin: 0 0 20px 0;
+  }
+
+  .embed-container {
+    padding-bottom: 37.125%;
+    max-width: 66%;
+    margin-bottom: 20px;
+  }
+
+  .archivetitle {
+    padding-right: 34%;
   }
 }
