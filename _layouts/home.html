@@ -25,12 +25,10 @@
       </header>
 
       <div class="mainbody home">
-        <!-- <div class="barba-container"> -->
-        <!-- <div class="postbody"> -->
         {% for post in site.categories.projects %}
         <div class="projectitem">
-          {% for image in post.images %}
-          <img src="{{ image }}" />
+          {% for images in post.images %}
+          <img src="{{ post.images }}" />
           {% endfor %}
           <h2 class="projecttitle">
             {{ post.title }}, {{ post.media }}, {{ post.year }}
