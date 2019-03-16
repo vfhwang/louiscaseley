@@ -21,20 +21,10 @@
     <section class="main">
       <header>
         <h1>Louis Caseley</h1>
-        <a class="infolink" href="/info">Info</a>
+        <a class="infolink" href="/">Work</a>
       </header>
 
-      {% for post in site.categories.projects %}
-      <div class="projectitem">
-        {% for image in post.images %}
-        <img src="{{ image }}" />
-        {% endfor %}
-        <h2 class="projecttitle">
-          {{ post.title }}, {{ post.media }}, {{ post.year }}
-        </h2>
-      </div>
-      {% endfor %}
-      <a href="/archive">Archive</a>
+      {{ content }}
     </section>
   </body>
 </html>
