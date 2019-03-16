@@ -1,0 +1,22 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: media
+  label: Media
+  config:
+    required: true
+- type: text
+  label: Year
+  name: year
+  config:
+    required: true
+- type: image_gallery
+  name: images
+  label: Images
