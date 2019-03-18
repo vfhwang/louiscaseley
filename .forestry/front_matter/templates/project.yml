@@ -26,4 +26,4 @@ fields:
   description: 'eg: projects'
   default: projects
 pages:
-- _posts/untitled.md
+- _posts/2019-03-18-untitled.md
