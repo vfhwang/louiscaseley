@@ -25,5 +25,3 @@ fields:
   label: category
   description: 'eg: projects'
   default: projects
-pages:
-- _posts/assembly1.md
