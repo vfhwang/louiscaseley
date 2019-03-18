@@ -1,6 +1,6 @@
 ---
 category: projects
-title: Assembly1
+title: What Can I Bring To The Party 2
 media: mixed media
 year: 2019
 images: []
