@@ -25,3 +25,5 @@ fields:
   label: category
   description: 'eg: projects'
   default: projects
+pages:
+- _posts/untitled.md
