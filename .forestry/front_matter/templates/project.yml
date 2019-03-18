@@ -26,5 +26,6 @@ fields:
   description: 'eg: projects'
   default: projects
 pages:
+- _posts/assembly1.md
 - _posts/2019-03-18-break.md
 - _posts/2019-03-16-assemble.md
