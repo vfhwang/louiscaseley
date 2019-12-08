@@ -1,6 +1,6 @@
 ---
 category: projects
-title: Assembly
+title: Video test
 media: mixed media
 year: "2019"
 images:
