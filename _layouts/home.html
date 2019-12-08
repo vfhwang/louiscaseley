@@ -29,6 +29,7 @@
         {% for image in post.images %}
         <img src="{{ image }}" />
         {% endfor %}
+        {{ content }}
         <h2 class="projecttitle">
           {{ post.title }}, {{ post.media }}, {{ post.year }}
         </h2>
