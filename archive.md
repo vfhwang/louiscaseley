@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video
-permalink: "/video/"
+permalink: "/archive/"
 published: false
 
 ---
