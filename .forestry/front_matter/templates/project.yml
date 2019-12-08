@@ -26,7 +26,7 @@ fields:
   description: 'eg: projects'
   default: projects
 pages:
-- _posts/2019-11-16-the-floor-is-lava.md
+- _posts/the-floor-is-lava.md
 - _posts/2019-06-28-why-are-you-showing-me-that-again.md
 - _posts/assembly.md
 - _posts/2019-03-18-break.md
