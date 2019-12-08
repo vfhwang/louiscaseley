@@ -200,6 +200,9 @@ img {
   margin-bottom: 10px;
 }
 
+.embed-container-wide iframe,
+.embed-container-wide object,
+.embed-container-wide embed
 .embed-container iframe,
 .embed-container object,
 .embed-container embed {
