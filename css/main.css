@@ -189,7 +189,9 @@ img {
   text-align: right;
 }
 
-.embed-container {
+.embed-container,
+.embed-container-wide
+ {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
@@ -224,6 +226,11 @@ img {
   .embed-container {
     padding-bottom: 37.125%;
     max-width: 66%;
+    margin-bottom: 20px;
+  }
+
+  .embed-container-wide {
+    max-width: 100%;
     margin-bottom: 20px;
   }
 
