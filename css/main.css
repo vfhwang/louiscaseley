@@ -202,7 +202,7 @@ img {
 
 .embed-container-wide iframe,
 .embed-container-wide object,
-.embed-container-wide embed
+.embed-container-wide embed,
 .embed-container iframe,
 .embed-container object,
 .embed-container embed {
@@ -235,7 +235,7 @@ img {
   .embed-container-wide {
     max-width: 100%;
     margin-bottom: 20px;
-    padding-bottom: 37.125%;
+    padding-bottom: 56.25%;
   }
 
   .archivetitle {
