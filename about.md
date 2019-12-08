@@ -10,7 +10,7 @@ permalink: "/info/"
 * RCA Degree Show, London 2019
 * Eyes of Many Kinds, CGP Gallery, London, 2018
 * WIP Show RCA, London, 2017
-* LOUIS, Back Room Holdron’s Arcade, Peckham, 2017
+* LOUIS LOUIS, Back Room Holdron’s Arcade, Peckham, 2017
 
 **Education**
 
