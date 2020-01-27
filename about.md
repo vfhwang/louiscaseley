@@ -6,6 +6,7 @@ permalink: "/info/"
 ---
 **Exhibitions**
 
+* Artefact Winter Open, Birmingham, 2019
 * Quivering Horizons, The Sky Has No Surface, Berwick, 2019
 * RCA Degree Show, London 2019
 * Eyes of Many Kinds, CGP Gallery, London, 2018
