@@ -13,14 +13,15 @@ permalink: "/info/"
 * WIP Show RCA, London, 2017
 * LOUIS, Back Room Holdron’s Arcade, Peckham, 2017
 
+**Awards/Residencies**
+
+* Block 336 Studio Residency, 2020
+* Augustus Martin Prize, 2019
+
 **Education**
 
 * MA Print, Royal College of Art, London, 2017-19
 * BA Illustration Animation, Kingston University, 2012-15
-
-**Prizes**
-
-* Augustus Martin Prize, 2019
 
 **Contact**
 
