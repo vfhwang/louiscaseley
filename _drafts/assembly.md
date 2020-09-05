@@ -1,0 +1,11 @@
+---
+category: projects
+title: Assembly
+media: mixed media
+year: "2019"
+images:
+- "/uploads/Assembly_Snax1000.jpg"
+- "/uploads/Assembly_back1000.jpg"
+- "/uploads/Assembly_full1000.jpg"
+
+---
