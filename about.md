@@ -6,7 +6,7 @@ permalink: "/info/"
 ---
 **Exhibitions/Projects**
 
-* Who Wants To Be a Millionaire, Cable Depot, 2020
+* Who Wants To Be a Millionaire, Cable Depot, London, 2020
 
   [https://cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire](https://cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire "cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire")
 * Artefact Winter Open, Birmingham, 2019
