@@ -7,8 +7,7 @@ permalink: "/info/"
 **Exhibitions/Projects**
 
 * Who Wants To Be a Millionaire, Cable Depot, London, 2020
-
-  [https://cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire](https://cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire "cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire")
+* [https://cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire](https://cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire "cable-depot.com/Louis-Caseley-Who-Wants-To-Be-a-Millionaire")
 * Artefact Winter Open, Birmingham, 2019
 * Quivering Horizons, The Sky Has No Surface, Berwick, 2019
 * RCA Degree Show, London 2019
